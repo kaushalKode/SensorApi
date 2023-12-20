@@ -5,9 +5,6 @@ const express = require("express");
 const sensorRouter = require("./controls/Sensor_data");
 
 
-
-
-
 app = express()
 
 // console.log(process.env.Secret_key)
