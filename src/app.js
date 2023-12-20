@@ -7,6 +7,7 @@ const sensorRouter = require("./controls/Sensor_data");
 
 app = express()
 
+
 // console.log(process.env.Secret_key)
 const port =  3000
 
